@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors
 import 'package:flutter/material.dart';
-import 'package:quiz/quiz.dart';
+import 'package:quiz/view/quiz.dart';
 // import 'package:quiz/start_screen.dart';
 void main() {
   runApp(MyApp());
