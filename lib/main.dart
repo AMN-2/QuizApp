@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         // backgroundColor: const Color.fromARGB(221, 130, 0, 0),
         backgroundColor: const Color.fromARGB(221, 130, 0, 0),
-        body: Quiz(),
+        body: Quiz(), 
       ),
     );
   }
